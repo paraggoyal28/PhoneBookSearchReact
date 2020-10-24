@@ -5,11 +5,6 @@ import { StyledSearch, StyledRow, StyledDiv, StyledAvatar, StyledSpan, StyledBut
 import 'antd/dist/antd.css';
 
 class PhoneBookPage extends React.Component {
-    constructor(props) {
-        super(props);
-
-    }
-
     render() {
         const users = this.props.value ? this.props.searchedUsers : this.props.userNames;
         return (

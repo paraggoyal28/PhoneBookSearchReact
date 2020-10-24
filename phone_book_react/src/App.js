@@ -1,5 +1,4 @@
 import React from 'react';
-import './App.css';
 import AddModal from './components/AddModal';
 import DisplayModal from './components/DisplayModal';
 import PhoneBookPage from './components/PhoneBookPage';
