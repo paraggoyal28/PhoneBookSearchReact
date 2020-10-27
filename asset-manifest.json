@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.js": "/phoneBook/static/js/main.c2729183.chunk.js",
-    "main.js.map": "/phoneBook/static/js/main.c2729183.chunk.js.map",
-    "runtime-main.js": "/phoneBook/static/js/runtime-main.16f24290.js",
-    "runtime-main.js.map": "/phoneBook/static/js/runtime-main.16f24290.js.map",
-    "static/css/2.44309f2b.chunk.css": "/phoneBook/static/css/2.44309f2b.chunk.css",
-    "static/js/2.014422d6.chunk.js": "/phoneBook/static/js/2.014422d6.chunk.js",
-    "static/js/2.014422d6.chunk.js.map": "/phoneBook/static/js/2.014422d6.chunk.js.map",
-    "index.html": "/phoneBook/index.html",
-    "precache-manifest.9ceb96aa5f7e48776ff183ac0e683875.js": "/phoneBook/precache-manifest.9ceb96aa5f7e48776ff183ac0e683875.js",
-    "service-worker.js": "/phoneBook/service-worker.js",
-    "static/css/2.44309f2b.chunk.css.map": "/phoneBook/static/css/2.44309f2b.chunk.css.map",
-    "static/js/2.014422d6.chunk.js.LICENSE.txt": "/phoneBook/static/js/2.014422d6.chunk.js.LICENSE.txt"
+    "main.js": "/PhoneBookSearchReact/static/js/main.c2729183.chunk.js",
+    "main.js.map": "/PhoneBookSearchReact/static/js/main.c2729183.chunk.js.map",
+    "runtime-main.js": "/PhoneBookSearchReact/static/js/runtime-main.ca2efdaf.js",
+    "runtime-main.js.map": "/PhoneBookSearchReact/static/js/runtime-main.ca2efdaf.js.map",
+    "static/css/2.44309f2b.chunk.css": "/PhoneBookSearchReact/static/css/2.44309f2b.chunk.css",
+    "static/js/2.0b1eb432.chunk.js": "/PhoneBookSearchReact/static/js/2.0b1eb432.chunk.js",
+    "static/js/2.0b1eb432.chunk.js.map": "/PhoneBookSearchReact/static/js/2.0b1eb432.chunk.js.map",
+    "index.html": "/PhoneBookSearchReact/index.html",
+    "precache-manifest.5976239b6c143b14b0ba6821fa854fbf.js": "/PhoneBookSearchReact/precache-manifest.5976239b6c143b14b0ba6821fa854fbf.js",
+    "service-worker.js": "/PhoneBookSearchReact/service-worker.js",
+    "static/css/2.44309f2b.chunk.css.map": "/PhoneBookSearchReact/static/css/2.44309f2b.chunk.css.map",
+    "static/js/2.0b1eb432.chunk.js.LICENSE.txt": "/PhoneBookSearchReact/static/js/2.0b1eb432.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.16f24290.js",
+    "static/js/runtime-main.ca2efdaf.js",
     "static/css/2.44309f2b.chunk.css",
-    "static/js/2.014422d6.chunk.js",
+    "static/js/2.0b1eb432.chunk.js",
     "static/js/main.c2729183.chunk.js"
   ]
 }
