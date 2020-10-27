@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/phoneBook/static/js/main.c2729183.chunk.js",
+    "main.js.map": "/phoneBook/static/js/main.c2729183.chunk.js.map",
+    "runtime-main.js": "/phoneBook/static/js/runtime-main.16f24290.js",
+    "runtime-main.js.map": "/phoneBook/static/js/runtime-main.16f24290.js.map",
+    "static/css/2.44309f2b.chunk.css": "/phoneBook/static/css/2.44309f2b.chunk.css",
+    "static/js/2.014422d6.chunk.js": "/phoneBook/static/js/2.014422d6.chunk.js",
+    "static/js/2.014422d6.chunk.js.map": "/phoneBook/static/js/2.014422d6.chunk.js.map",
+    "index.html": "/phoneBook/index.html",
+    "precache-manifest.9ceb96aa5f7e48776ff183ac0e683875.js": "/phoneBook/precache-manifest.9ceb96aa5f7e48776ff183ac0e683875.js",
+    "service-worker.js": "/phoneBook/service-worker.js",
+    "static/css/2.44309f2b.chunk.css.map": "/phoneBook/static/css/2.44309f2b.chunk.css.map",
+    "static/js/2.014422d6.chunk.js.LICENSE.txt": "/phoneBook/static/js/2.014422d6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.16f24290.js",
+    "static/css/2.44309f2b.chunk.css",
+    "static/js/2.014422d6.chunk.js",
+    "static/js/main.c2729183.chunk.js"
+  ]
+}
